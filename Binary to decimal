@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+ // } Driver Code Ends
+class Solution
+{
+	public:
+		int binary_to_decimal(string str)
+		{
+		    // Code here.
+		    
+		    long long binary = stoll(str);	    
+		    int decimal=0;
+		    int weight = 1;
+		    int rem=0;
+		    
+		    while(binary > 0){
+		        
+		        rem = binary % 10;
+		        
+		        decimal += rem*weight;
+		        
+		        weight*=2;
+		        
+		        binary/=10;
+		    }
+		    
+           return decimal;
+		}
+};
+
+// { Driver Code Starts.
+int main(){
+    int T;
+    cin >> T;
+    while(T--)
+    {
+    	string str;
+    	cin >> str;
+    	Solution ob;
+    	int  ans = ob.binary_to_decimal(str);
+    	cout << ans <<"\n";
+    }
+	return 0;
+}  // } Driver Code Ends
