@@ -1,0 +1,61 @@
+// { Driver Code Starts
+// Initial Template for C++
+
+#include <bits/stdc++.h>
+using namespace std;
+
+ // } Driver Code Ends
+// User function Template for C++
+
+class Solution {
+  public:
+    int isDigitSumPalindrome(int N) {
+        // code here
+        
+        int sum =0;
+        
+        int digit;
+        
+        int temp;
+        
+        while(N > 0){
+            digit = N%10;
+            
+            sum+=digit;
+            
+            N/=10;
+        }
+        
+        temp = sum;
+        
+        int rev=0;
+        
+        int rem=0;
+        
+        while(sum > 0){
+            rem = sum%10;
+            
+            rev= rev*10+rem;
+            
+            sum/=10;
+        }
+        
+        if(temp == rev) return 1;
+        
+        else
+        return 0;
+    }
+};
+
+// { Driver Code Starts.
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        int N;
+        cin >> N;
+        Solution ob;
+        cout << ob.isDigitSumPalindrome(N) << "\n";
+    }
+}
+  // } Driver Code Ends
