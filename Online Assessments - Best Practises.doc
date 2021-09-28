@@ -1,0 +1,144 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled3.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyM2H7ll7H3ocTyZ3QAhPUlJ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/harshi606/Zoho-prep/blob/main/Online%20Assessments%20-%20Best%20Practises.doc\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "xAJedQnEZW6w"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "mRkm1G-CZXnz"
+      },
+      "source": [
+        "\n",
+        "**Online Assessments - Best Practices**\n",
+        "\n",
+        "The placement season has started and most probably completed for some too. Whatever company we are attending, we have to pass the ONLINE ASSESSMENT !\n",
+        "\n",
+        "This may sound as a piece of cake for some group of people, But for the majority groups this word sounds spooky !(I was one among them!:) ).\n",
+        "\n",
+        "This guide is for the majaority of the group I spoke about. Let us begin !\n",
+        "\n",
+        "\n",
+        "First and the foremost, Let us have a bird's eye view of what we can expect in the Online Assessments.\n",
+        "\n",
+        "\n",
+        "\n",
+        "*   **General Aptitude** - topics like Speed and Distance , Time and work etc.\n",
+        "*   **Technical Aptitude** - All CS fundementals(Os,Cn,DBMS,DSA etc)\n",
+        "*   **Coding questions** - Depends on the kind of job you are applying for. If it is coding related jobs you will have this section or else Programming logic will be there instead of this section.\n",
+        "*   **Logical and Verbal Reasoning** - This is the section where you can score really high. If the company doesnot have sectional cut off,then you can increase your overall score with this section.\n",
+        "\n",
+        "\n",
+        "\n",
+        "**How to begin with the test?**\n",
+        "\n",
+        "Now, the question arises, *from where can one start the test from?*. That totally depends on you. Don't follow anyone's advice in which section to attend first. Because **only you know where you stand in each section!**\n",
+        "\n",
+        "First do self-analysis and find out which section mentioned in the previous section you are strong. If you do this step clearly and successfully, then you can start the test with the section you are strong at.\n",
+        "\n",
+        "**How to manage time?**\n",
+        "\n",
+        "Time-Management is the heart of the Online Assessment. Time will fly as soon as you start your test. Some tips to manage your time efficiently are:\n",
+        "\n",
+        "\n",
+        "1.   If you dont know a particular question, skip that question and keep on proceeding.\n",
+        "2.   Make sure you spend only **30 seconds** maximum on every question.\n",
+        "3.   Learn some speed maths tricks to enhance your speed in solving.\n",
+        "     (Refer youtube channel-https://www.youtube.com/c/SureshAggarwal\n",
+        "     for some cool tricks which will definetly help in speed solving the questions)\n",
+        "4.  For coding questions, if you can pass , say out of 10 cases 7-8, dont spend too much time on optimizing your code. Proceed with the other coding question/questions.\n",
+        "5.  It is advisable to have some knowledge on competitive coding so that you can code the questions much faster. Learn the commonly used algorithms like sorting,searching algos to enhance your speed.\n",
+        "6.  Make sure you practice sufficient coding questions from **Leetcode and GFG** especially the commonly asked ones and basic coding questions like **Prime numbers , fibonacci series , Armstrong numbers** etc,so that you can solve the questions faster and save time. \n",
+        "\n",
+        "**Stress control**\n",
+        "\n",
+        "Stress is a buzzword that is going around now-a-days. But it is very dangerous to your physical as well as mental health and will directly affect your preperation for Online Assessments.\n",
+        "\n",
+        "So, it is very crucial to control your stress at the time of the assessments.\n",
+        "\n",
+        "1.  First and important one is to **Believe in yourself**. Believe that you can achieve anything in life. If you start loving and believing yourself, half of your stress will vanish!\n",
+        "\n",
+        "2.  Everyone will have some **stress-busting** activity. For me, if I listen to songs or write poems I can get rid of my stress. So, identify by doing which activity you feel stress-free. Then practice doing that activity whenever you feel stressed.\n",
+        "\n",
+        "3.  Drink **Jasmine tea , green tea** to ease your stress.If you are someone who is not allergic to strong fragrance, you can have **Lavender or teatree essential oil** which will definelty elevate your mood and help you in stress control.\n",
+        "\n",
+        "4.  Surround yourslef with positive vibes and get rid of perosn's or things you feel that give you negativity.\n",
+        "\n",
+        "If you follow the above steps, You can control your stress and concentrate on your assessments.\n",
+        "\n",
+        "**Tips / Recommendations for online Assessment**\n",
+        "\n",
+        "1.  General Aptitude:\n",
+        "\n",
+        "*   Practice, practice and practice as much problems as possible from **RS AGGARWAL**,**Indiabix**. If you are the person who like watching videos, you can go with \n",
+        "1.  https://www.youtube.com/c/FeelFreetoLearnBanking - Feel free to learn\n",
+        "2.  https://www.youtube.com/c/CareerRideinfo - carrerRide\n",
+        "\n",
+        "*   Stick with anyone resource till the end. Too much references will lead you in confusion.\n",
+        "\n",
+        "2.  Technical Aptitude:\n",
+        "\n",
+        "*  Be strong with all the core and basic concepts of **CN,DBMS,DSA,C,JAVA/CPP,OS**. These are the most commonly asked sections.\n",
+        "\n",
+        "*   Practice more questions on **OOPS , Memory Management , Pointers** in java/cpp and C.\n",
+        "\n",
+        "*  Go with **Geeks For Geeks** for practicing programming mcq questions.\n",
+        "\n",
+        "*  I will suggest to refer **gate preparation** for technical Aptitude as there will be more gate-level questions.\n",
+        "\n",
+        "*  **San Foundry** will have 1000's of mcqs on all cs fundementals.\n",
+        "\n",
+        "3. Coding:\n",
+        "\n",
+        "* Make sure you practise lots of questions from **LEETCODE and GEEKS FOR GEEKS**\n",
+        "\n",
+        "*  Concentrate more on the commonly asked interview questions.\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
